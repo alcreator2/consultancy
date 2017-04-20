@@ -1,0 +1,32 @@
+.container{
+	display: block;
+    margin: 0 auto;
+    background: #eee;
+}
+.table-wrapper{
+	min-width: 900px;
+	margin-top: 40px;	
+}
+.table-wrapper.with-bg{
+	background: #fff !important;
+    padding: 50px;
+    margin-bottom: 40px;
+}
+.bg-white{
+	background-color: white;
+}
+a{
+	text-decoration: none;
+}
+.add-icon{
+	position: fixed !important;
+	top: 20px;
+	right: 20px;
+}
+.material-icons.md-center{
+	font-size: 50px;
+    display: block;
+}
+p.text-danger {
+    color: #d60000;
+}
